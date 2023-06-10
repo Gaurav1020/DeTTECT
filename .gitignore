@@ -14,3 +14,10 @@ __pycache__/
 # Misc
 .DS_Store
 .vscode
+
+#Virtual Env
+Scripts
+Include
+Lib
+EV.bat
+DV.bat
